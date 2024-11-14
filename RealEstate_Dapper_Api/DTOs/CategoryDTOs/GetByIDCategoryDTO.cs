@@ -1,6 +1,6 @@
 ﻿namespace RealEstate_Dapper_Api.DTOs.CategoryDTOs
 {
-    public class UpdateCategoryDTO
+    public class GetByIDCategoryDTO
     {
         public int CategoryID { get; set; }
         public string CategoryName { get; set; }
